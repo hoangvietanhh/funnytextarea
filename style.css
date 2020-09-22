@@ -1,0 +1,9 @@
+.wrap{
+    width: 500px;
+    height: 500px;
+    align-content: center;
+    background-color: burlywood;
+    text-align: center;
+    padding-top: 150px;
+    margin: auto;
+}
